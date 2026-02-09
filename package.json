@@ -1,0 +1,23 @@
+{
+  "name": "is117-dcp2",
+  "version": "1.0.0",
+  "description": "my website portfolio",
+  "homepage": "https://github.com/dcp2njit/IS117-dcp2#readme",
+  "bugs": {
+    "url": "https://github.com/dcp2njit/IS117-dcp2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcp2njit/IS117-dcp2.git"
+  },
+  "license": "ISC",
+  "author": "denise payumo",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
